@@ -1,4 +1,11 @@
-# todo
+# Group Project Manager
+
+Web application that allows group members to manage responsibilities in a central location.
+
+This web app was created using Vue, Vuetify, Firebase, and Firestore.
+
+
+You can checkout the [live app here]().
 
 ## Project setup
 ```
