@@ -2,10 +2,10 @@
 
 Web application that allows group members to manage responsibilities in a central location.
 
-This web app was created using Vue, Vuetify, Firebase, and Firestore.
+This web app was created using Vue, Vuetify, Firebase, Firestore and deployed using Firebase.
 
 
-You can checkout the [live app here]().
+You can checkout the [live app here](https://project-manager-45ffb.firebaseapp.com/).
 
 ## Project setup
 ```
